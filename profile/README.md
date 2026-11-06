@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/mark-on-dark.svg">
-    <img src="../assets/mark-on-light.svg" width="112" alt="Severed Signal Studios logo">
-  </picture>
+  <img src="../assets/profile.svg" width="112" alt="Severed Signal Studios logo">
 
 # Severed Signal Studios
 
