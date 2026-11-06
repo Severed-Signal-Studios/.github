@@ -28,6 +28,7 @@ how to report those privately.
 | `.github/ISSUE_TEMPLATE/` | The issue forms for this repository |
 | `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md` | Policies that apply across the organization |
 | `assets/` | The logo and image the profile page uses |
+| `CHANGELOG.md` | Notable changes to this repository, by date. A pull request adds its own entries. |
 
 GitHub also uses these policies as defaults for the organization's other
 repositories.
