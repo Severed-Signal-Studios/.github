@@ -1,0 +1,30 @@
+name: Feedback or idea
+description: Tell us what you think of Unaccounted or suggest an improvement.
+type: Feature
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We read every piece of feedback, though we can't promise to act on all of it. By sharing an idea, you agree we may use it in our games without owing you payment or credit.
+
+        **Everything you post here is public.** For a quick chat or a question, [Discord](https://discord.gg/jRH8Rv5b5y) may suit you better.
+
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback
+      description: What you liked, what bothered you, or what you'd change.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why does it matter to you?
+      description: A moment in the game, or how it affected your play, helps us understand.
+
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      placeholder: "1.0.0"

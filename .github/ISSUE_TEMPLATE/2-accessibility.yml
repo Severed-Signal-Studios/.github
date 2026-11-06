@@ -1,0 +1,48 @@
+name: Accessibility barrier
+description: Something makes Unaccounted hard or impossible for you to play.
+title: "Accessibility: "
+type: Bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We want everyone to be able to play, whatever their disability, language or computer. Tell us what gets in your way, even if you're not sure it counts as a bug.
+
+        **Everything you post here is public.** Share only what you're comfortable sharing.
+
+  - type: textarea
+    id: barrier
+    attributes:
+      label: What gets in your way?
+      description: Describe where in the game it happens and what makes it hard.
+    validations:
+      required: true
+
+  - type: textarea
+    id: setup
+    attributes:
+      label: How do you play?
+      description: For example, a screen reader, a controller, one hand, subtitles, high contrast or a particular language. Include any game settings you've changed.
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: If you have an idea for a fix, tell us. It's fine to leave this empty.
+
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: If you're not sure, tell us where and when you got the game.
+      placeholder: "1.0.0"
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Windows
+        - Steam Deck
+        - Linux, through Proton or Wine
+        - Other

@@ -1,0 +1,89 @@
+name: Bug report
+description: Something in Unaccounted doesn't work as it should.
+type: Bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Please search the [existing issues](https://github.com/Severed-Signal-Studios/.github/issues?q=is%3Aissue) first, in case someone has already reported it.
+
+        **Everything you post here is public, including attachments.** Don't include personal information. To report a security problem, follow the [security policy](https://github.com/Severed-Signal-Studios/.github/security/policy) instead.
+
+        [SUPPORT.md](https://github.com/Severed-Signal-Studios/.github/blob/main/SUPPORT.md#logs-and-saves) shows where to find logs and saves.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected to happen instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The shortest sequence of steps that makes the problem happen.
+      placeholder: |
+        1. Load a save on day 2
+        2. Open the register
+        3. ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Sometimes
+        - It happened once
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: If you're not sure, tell us where and when you got the game.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Windows
+        - Steam Deck
+        - Linux, through Proton or Wine
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: system
+    attributes:
+      label: Computer
+      description: Your operating system, graphics card and processor, if you know them.
+      placeholder: Windows 11, GeForce GTX 1060, Ryzen 5 3600
+
+  - type: upload
+    id: attachments
+    attributes:
+      label: Screenshots, video, logs or saves
+      description: Logs and saves help a lot. Logs can include your Windows user name, and recordings can pick up your microphone. Zip save files first, because this form doesn't accept .save files.
+    validations:
+      accept: ".png,.jpg,.jpeg,.gif,.webp,.mp4,.mov,.webm,.log,.txt,.zip"
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched the existing issues and didn't find this problem.
+          required: true
+        - label: I understand that this report and its attachments are public.
+          required: true
