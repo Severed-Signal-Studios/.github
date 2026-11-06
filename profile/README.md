@@ -38,5 +38,5 @@ Our game and website code is private. Bug reports and feedback go to our public
 [`.github` repository](https://github.com/Severed-Signal-Studios/.github).
 
 We want to make games people can play regardless of disability, language or the
-computer they own. If something stops you from playing,
+device they own. If something stops you from playing,
 [tell us](https://github.com/Severed-Signal-Studios/.github/issues/new?template=2-accessibility.yml).

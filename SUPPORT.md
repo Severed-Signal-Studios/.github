@@ -13,7 +13,7 @@
 - **Bugs, accessibility barriers and feedback:** [open an issue](https://github.com/Severed-Signal-Studios/.github/issues/new/choose).
 - **Questions, help and conversation:** join our [Discord](https://discord.gg/nz9bkGb2Fv).
 - **Purchases and refunds:** contact the store you bought the game from.
-- **Anything private:** email [info@severedsignal.com](mailto:info@severedsignal.com).
+- **Anything private:** email [support@severedsignal.com](mailto:support@severedsignal.com).
 - **Security problems:** follow the [security policy](SECURITY.md). Don't open
   an issue.
 
