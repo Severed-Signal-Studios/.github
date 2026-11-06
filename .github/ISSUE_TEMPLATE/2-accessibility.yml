@@ -43,6 +43,7 @@ body:
       label: Platform
       options:
         - Windows
+        - macOS
+        - Linux
         - Steam Deck
-        - Linux, through Proton or Wine
         - Other

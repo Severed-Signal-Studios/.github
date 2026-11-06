@@ -9,7 +9,7 @@ in its community spaces.
 - Issues, comments and discussions in the
   [Severed Signal Studios](https://github.com/Severed-Signal-Studios) GitHub
   organization
-- Our [Discord](https://discord.gg/jRH8Rv5b5y) server
+- Our [Discord](https://discord.gg/nz9bkGb2Fv) server
 - Anywhere someone represents the studio in public
 
 ## Reporting

@@ -3,9 +3,9 @@
 
 # Severed Signal Studios
 
-**An independent game studio in Finland.**
+**An independent game studio in Åland, Finland.**
 
-[Website](https://severedsignal.com) · [Discord](https://discord.gg/jRH8Rv5b5y) · [Bluesky](https://bsky.app/profile/severedsignal.bsky.social)
+[Website](https://severedsignal.com) · [Bluesky](https://bsky.app/profile/severedsignal.bsky.social) · [Discord](https://discord.gg/nz9bkGb2Fv) · [Facebook](https://www.facebook.com/severedsignal/) · [Reddit](https://www.reddit.com/user/SeveredSignal/)
 
 </div>
 
@@ -13,22 +13,26 @@
 
 <img src="../assets/unaccounted-corridor.png" alt="Exposed pipes line a basement corridor, with a silhouetted figure in a distant doorway.">
 
-The archive burned in the night and took the landlord with it. Now the building
-is yours, and so is the register. Five days to write down who lives behind its
-doors and what they did the night of the fire. Be careful what you write. The
-state believes paper.
+**A first-person murder mystery set in the 1980s Eastern Bloc.**
 
-*Unaccounted* is a first-person 3D detective mystery built around environmental
-clues and logical deduction. We're making it in [Godot](https://godotengine.org/).
+Explore an entire apartment building in this whodunit built on logical
+deduction. Search its five floors, account for its twelve residents, and find
+out who set the fire.
 
-<!-- Add the Steam store link here when the page goes live. -->
+Follow the evidence through documents, testimony, personal belongings, and the
+building itself. A detail in one apartment can explain a contradiction in
+another.
+
+We're developing *Unaccounted* in [Godot](https://godotengine.org/).
+
+[Wishlist on Steam](https://store.steampowered.com/app/747010/Unaccounted/)
 
 ## Get in touch
 
 - [Report a bug or send feedback](https://github.com/Severed-Signal-Studios/.github/issues/new/choose)
 - [Get help](https://github.com/Severed-Signal-Studios/.github/blob/main/SUPPORT.md)
 - [Report a security problem](https://github.com/Severed-Signal-Studios/.github/security/policy)
-- [Join us on Discord](https://discord.gg/jRH8Rv5b5y)
+- [Join us on Discord](https://discord.gg/nz9bkGb2Fv)
 
 Our game and website code is private. Bug reports and feedback go to our public
 [`.github` repository](https://github.com/Severed-Signal-Studios/.github).

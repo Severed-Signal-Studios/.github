@@ -57,8 +57,9 @@ body:
       label: Platform
       options:
         - Windows
+        - macOS
+        - Linux
         - Steam Deck
-        - Linux, through Proton or Wine
         - Other
     validations:
       required: true
@@ -74,7 +75,7 @@ body:
     id: attachments
     attributes:
       label: Screenshots, video, logs or saves
-      description: Logs and saves help a lot. Logs can include your Windows user name, and recordings can pick up your microphone. Zip save files first, because this form doesn't accept .save files.
+      description: Logs and saves help a lot. Logs can include your user name, and recordings can pick up your microphone. Zip save files first, because this form doesn't accept .save files.
     validations:
       accept: ".png,.jpg,.jpeg,.gif,.webp,.mp4,.mov,.webm,.log,.txt,.zip"
 
