@@ -8,7 +8,7 @@
 		}
 	</style>
 	<!-- Background: the site's light-mode ground color. -->
-	<rect width="512" height="512" fill="#f1f2f2"/>
+	<circle cx="256" cy="256" r="256" fill="#f1f2f2"/>
 	<!-- The wave mark from profile-black.svg in the site's ink color, 13.7:1 against the background in both modes.
 	     scale() sizes it around the center: 1.572 matches profile-facebook.jpg, 1 is the favicon's size. -->
 	<g fill="#232527" transform="translate(256 256) scale(1.572) translate(-256 -256)">
