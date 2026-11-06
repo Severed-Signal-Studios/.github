@@ -16,7 +16,7 @@ how to report those privately.
 
 ## Other ways to reach us
 
-- Questions, help and conversation: [Discord](https://discord.gg/jRH8Rv5b5y)
+- Questions, help and conversation: [Discord](https://discord.gg/nz9bkGb2Fv)
 - Anything private: [support@severedsignal.com](mailto:support@severedsignal.com)
 - More detail: [SUPPORT.md](SUPPORT.md)
 

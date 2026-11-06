@@ -3,11 +3,11 @@
 	<!-- Dark mode swaps the colors for the site's dark-mode ground and ink. Tools without CSS draw the light colors. -->
 	<style>
 		@media (prefers-color-scheme: dark) {
-			rect { fill: #232527; }
+			circle { fill: #232527; }
 			g { fill: #f1f2f2; }
 		}
 	</style>
-	<!-- Background: the site's light-mode ground color. -->
+	<!-- Background: a circle in the site's light-mode ground color. GitHub strips the CSS that could round the image, so the SVG draws the circle. -->
 	<circle cx="256" cy="256" r="256" fill="#f1f2f2"/>
 	<!-- The wave mark from profile-black.svg in the site's ink color, 13.7:1 against the background in both modes.
 	     scale() sizes it around the center: 1.572 matches profile-facebook.jpg, 1 is the favicon's size. -->
