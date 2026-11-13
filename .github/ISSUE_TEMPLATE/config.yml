@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question or chat
+    url: https://discord.gg/nz9bkGb2Fv
+    about: Join our Discord for questions, help and conversation.
+  - name: Contact the studio privately
+    url: https://github.com/Severed-Signal-Studios/.github/blob/main/SUPPORT.md#where-to-ask
+    about: Email support@severedsignal.com about anything you'd rather not post in public.
