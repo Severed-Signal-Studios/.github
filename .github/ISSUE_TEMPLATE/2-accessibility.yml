@@ -1,0 +1,67 @@
+name: Accessibility barrier
+description: Something makes one of our games or our website hard or impossible for you to use.
+title: "Accessibility: "
+type: Bug
+labels: ["accessibility"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We want everyone to be able to play, whatever their disability, language or device. Tell us what gets in your way, even if you're not sure it counts as a bug.
+
+        **Everything you post here is public.** Share only what you're comfortable sharing. To tell us privately, email [support@severedsignal.com](mailto:support@severedsignal.com) instead.
+
+  - type: textarea
+    id: barrier
+    attributes:
+      label: What gets in your way?
+      description: Describe what you were trying to do, where it happens and what makes it hard. For the website, name the page and your browser.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: impact
+    attributes:
+      label: How much does it get in your way?
+      description: This helps us decide what to fix first.
+      options:
+        - I can't play or use it at all
+        - I can't get past one part
+        - I can get past it, but it's hard, tiring or painful
+        - It's a small annoyance
+
+  - type: textarea
+    id: setup
+    attributes:
+      label: How do you play?
+      description: For example, with a controller, one hand, subtitles, high contrast or a particular language. Include any settings you've changed.
+
+  - type: input
+    id: assistive-technology
+    attributes:
+      label: Assistive technology
+      description: Any screen reader, magnifier, switch, eye tracker, voice control or other tool you use, with its version if you know it.
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: If you have an idea for a fix, tell us. It's fine to leave this empty.
+
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: If you're not sure, tell us where and when you got the game.
+      placeholder: "1.0.0"
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Steam Deck
+        - Other
