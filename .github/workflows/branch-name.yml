@@ -1,0 +1,25 @@
+name: Branch name
+
+on:
+  push:
+    branches-ignore: [main]
+
+permissions: {}
+
+jobs:
+  branch-name:
+    name: Branch name
+    if: ${{ !github.event.deleted }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Check that the branch follows Conventional Branch
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          if printf '%s\n' "$BRANCH" | grep -Eqx '(feat|fix|chore|release)/[a-z0-9]+([.-][a-z0-9]+)*'; then
+            echo "$BRANCH follows Conventional Branch."
+          else
+            echo "::error::Name the branch <type>/<description>, with type feat, fix, chore or release and the description in lowercase words joined by hyphens, like feat/accessibility-form-impact or release/v1.0.0. Got: $BRANCH"
+            exit 1
+          fi
