@@ -25,6 +25,10 @@ another.
 
 We're developing *Unaccounted* in [Godot](https://godotengine.org/).
 
+- **Characters:** [Puldarrb](https://x.com/PulDarRB)
+- **Environments:** [Harol Amado Vivanco (Mc Pato)](https://x.com/Mc_Patooo)
+- **Programming and design:** [Tobias Svenblad](https://x.com/SevSignalStudio)
+
 [Wishlist on Steam](https://store.steampowered.com/app/747010/Unaccounted/)
 
 ## Get in touch

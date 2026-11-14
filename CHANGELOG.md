@@ -12,6 +12,12 @@ The version number covers what people and the organization's other repositories 
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11-14
+
+### Added
+
+- The profile page credits the people who make *Unaccounted*: Puldarrb for the characters, Harol Amado Vivanco (Mc Pato) for the environments, and Tobias Svenblad for programming and design. Each name links to an X account, Tobias Svenblad's to the studio's.
+
 ## [1.0.0] - 2026-11-14
 
 ### Added
@@ -29,5 +35,6 @@ The version number covers what people and the organization's other repositories 
 - Blank issues are turned off. The new issue page links to Discord and to private contact by email.
 - GitHub uses `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md`, `ACCESSIBILITY.md` and `CONTRIBUTING.md` as the defaults for the organization's other repositories.
 
-[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/Severed-Signal-Studios/.github/releases/tag/v1.0.0
