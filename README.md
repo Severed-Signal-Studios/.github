@@ -34,6 +34,7 @@ how to report those privately.
 | `assets/` | The logo and image the profile page uses |
 | `CHANGELOG.md` | Notable changes to this repository, by version. It says what the version number covers. A pull request with a notable change adds the next version. |
 | `.github/workflows/tag.yml` | Tags `main` with the changelog's newest version |
+| `.github/workflows/branch-name.yml` | Checks that each branch is named by [Conventional Branch 1.1.0](https://conventionalbranch.org/v1.1.0/), using the types `feat`, `fix`, `chore` and `release` |
 
 GitHub also uses these policies as defaults for the organization's other
 repositories.
