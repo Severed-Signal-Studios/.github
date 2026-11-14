@@ -16,8 +16,11 @@ jobs:
       - name: Check that the branch follows Conventional Branch
         env:
           BRANCH: ${{ github.ref_name }}
+          ACTOR: ${{ github.actor }}
         run: |
-          if printf '%s\n' "$BRANCH" | grep -Eqx '(feat|fix|chore|release)/[a-z0-9]+([.-][a-z0-9]+)*'; then
+          if [[ "$ACTOR" == "dependabot[bot]" && "$BRANCH" == dependabot/* ]]; then
+            echo "$BRANCH is Dependabot's own branch."
+          elif printf '%s\n' "$BRANCH" | grep -Eqx '(feat|fix|chore|release)/[a-z0-9]+([.-][a-z0-9]+)*'; then
             echo "$BRANCH follows Conventional Branch."
           else
             echo "::error::Name the branch <type>/<description>, with type feat, fix, chore or release and the description in lowercase words joined by hyphens, like feat/accessibility-form-impact or release/v1.0.0. Got: $BRANCH"
