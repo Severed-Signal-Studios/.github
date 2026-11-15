@@ -16,8 +16,8 @@
 **A first-person murder mystery set in the 1980s Eastern Bloc.**
 
 Explore an entire apartment building in this whodunit built on classic
-detective work. Search its five floors, account for its twelve residents, and
-find out who set the fire.
+detective work. Search its five floors, account for its residents, and find
+out who set the fire.
 
 Follow the evidence through documents, testimony, personal belongings, and the
 building itself. A detail in one apartment can explain a contradiction in
