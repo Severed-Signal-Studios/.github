@@ -12,6 +12,16 @@ The version number covers what people and the organization's other repositories 
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-11-15
+
+### Added
+
+- `SUPPORT.md` says the studio keeps a report sent by email or Discord, and any files attached to it, only as long as it needs to handle the report, then deletes them. The same goes for files emailed instead of attached to a public issue. Its section on sharing files links the website's privacy policy.
+
+### Changed
+
+- `SUPPORT.md` words its folders for logs, saves and settings, which files to send and what to check before you share files the same way as the support page at [severedsignal.com/support](https://severedsignal.com/support). The tip to compress a save or settings file before attaching it now sits with the files to send.
+
 ## [1.1.0] - 2026-11-14
 
 ### Added
@@ -35,6 +45,7 @@ The version number covers what people and the organization's other repositories 
 - Blank issues are turned off. The new issue page links to Discord and to private contact by email.
 - GitHub uses `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md`, `ACCESSIBILITY.md` and `CONTRIBUTING.md` as the defaults for the organization's other repositories.
 
-[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/Severed-Signal-Studios/.github/releases/tag/v1.0.0
