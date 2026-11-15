@@ -12,6 +12,12 @@ The version number covers what people and the organization's other repositories 
 
 ## [Unreleased]
 
+## [1.3.0] - 2026-11-15
+
+### Changed
+
+- The profile page no longer counts the residents of *Unaccounted*.
+
 ## [1.2.0] - 2026-11-15
 
 ### Added
@@ -45,7 +51,8 @@ The version number covers what people and the organization's other repositories 
 - Blank issues are turned off. The new issue page links to Discord and to private contact by email.
 - GitHub uses `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md`, `ACCESSIBILITY.md` and `CONTRIBUTING.md` as the defaults for the organization's other repositories.
 
-[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/Severed-Signal-Studios/.github/releases/tag/v1.0.0
