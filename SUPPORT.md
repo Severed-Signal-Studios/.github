@@ -16,7 +16,9 @@ This guide is also on our website, at
 - **Bugs, accessibility barriers and feedback:** [open an issue](https://github.com/Severed-Signal-Studios/.github/issues/new/choose).
   If you don't have a GitHub account, report a bug or barrier by email to
   [support@severedsignal.com](mailto:support@severedsignal.com) or on Discord,
-  and we add it to the issues for you without your personal details.
+  and we add it to the issues for you without your personal details. We keep
+  the original message and any attached files only as long as needed to handle
+  the report, then delete them.
 - **Questions, help and conversation:** join our [Discord](https://discord.gg/nz9bkGb2Fv).
 - **Purchases and refunds:** contact the store you bought the game from.
 - **Anything private:** email [support@severedsignal.com](mailto:support@severedsignal.com).
@@ -31,7 +33,7 @@ to tell us when you report a barrier.
 
 ## Logs and saves
 
-*Unaccounted* keeps its files in a different place on each system.
+*Unaccounted* stores its files in different folders depending on your system.
 
 ### Windows
 
@@ -45,7 +47,7 @@ Paste a folder path into the File Explorer address bar to open it.
 
 ### macOS
 
-In Finder, choose **Go > Go to Folder** and paste a folder path.
+In Finder, open the Go menu, select Go to Folder, and paste a folder path.
 
 | What | Folder |
 |---|---|
@@ -56,7 +58,7 @@ In Finder, choose **Go > Go to Folder** and paste a folder path.
 ### Linux and Steam Deck
 
 On Steam Deck, switch to Desktop Mode first. `.local` is a hidden folder, so
-turn on hidden files in your file manager, often with Ctrl+H. If you've set
+enable hidden files in your file manager, often with Ctrl+H. If you have set
 `XDG_DATA_HOME`, the folders are there instead of in `~/.local/share`.
 
 | What | Folder |
@@ -67,39 +69,42 @@ turn on hidden files in your file manager, often with Ctrl+H. If you've set
 
 ### Proton or Wine
 
-If you play the Windows version through Proton or Wine, its Windows folders sit
+If you play the Windows version through Proton or Wine, its Windows folders are
 inside the prefix, under `drive_c/users/<user>/AppData/Roaming`.
 
-- With Steam, the prefix is `steamapps/compatdata/<app ID>/pfx` in the Steam
+- With Steam, the prefix is `steamapps/compatdata/747010/pfx` in the Steam
   library that holds the game, usually `~/.local/share/Steam`. The user is
-  `steamuser`, and the app ID is `747010`.
+  `steamuser`.
 - With Wine, the prefix is `~/.wine` or your `WINEPREFIX`, and the user is your
-  own user name.
+  own username.
 
 ### Which files to send
 
-- `godot.log` is the log of the latest session. Quit the game before you copy
-  it, since some lines are written only when the game closes. Each launch
-  renames the previous log to `godot` followed by a date and time, and the game
-  keeps the five newest logs. If you've started the game since the problem,
-  attach the newest dated log too.
+- `godot.log` is the log for the latest session. Quit the game before copying
+  it, as some lines are written only when the game closes. Each launch renames
+  the previous log to `godot` with a date and time, and the game keeps the five
+  most recent logs. If you have started the game since the problem occurred,
+  please also send the newest dated log.
 - Each save is a `.save` file, and the matching `.bak` file is the version it
   replaced.
 - `settings.cfg` holds your settings and key bindings.
+- Compress save or settings files before attaching them to an issue, as GitHub
+  does not accept `.save` or `.cfg` files.
 
 ## Before you share files
 
-- Issues and their attachments are public. Anyone with the link can open an
-  attachment without signing in. To send a file privately, email it to
-  [support@severedsignal.com](mailto:support@severedsignal.com) instead.
-- Logs can include your user name in file paths, and that name is often
-  part of your real name or email address. You can replace it with `USER`
-  before uploading.
-- Screenshots and videos can show other windows, notifications and account
-  names, and recordings can pick up your microphone or voice chat. Check them
-  before you post.
-- Zip a save or settings file before you upload it, because GitHub doesn't
-  accept `.save` or `.cfg` files.
+- Issues and attachments on GitHub are public. Anyone with the link can access
+  an attachment without signing in. To send a file privately, please email it
+  to [support@severedsignal.com](mailto:support@severedsignal.com). We keep
+  emailed files only as long as needed to handle the issue, then delete them.
+- Logs may include your username in file paths, which can be part of your real
+  name or email address. You can replace it with `USER` before sharing the log.
+- Screenshots and videos may display other windows, notifications, or account
+  names. Recordings may capture your microphone or voice chat. Please review
+  them before posting.
+
+The [privacy policy](https://severedsignal.com/privacy) explains how we handle
+what you send us.
 
 ## Writing a useful report
 
