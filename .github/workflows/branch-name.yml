@@ -1,3 +1,10 @@
+# Checks branch names against Conventional Branch 1.1.0. GitHub's own
+# "Restrict branch names" ruleset rule needs GitHub Enterprise, and the
+# organization is on Free, so this check stands in for it.
+#
+# It runs on push only. The "Owner pushes only" Actions policy refuses
+# pull_request runs, and the push run already gives each PR its check.
+
 name: Branch name
 
 on:
