@@ -1,19 +1,30 @@
 <div align="center">
-  <img src="../assets/profile.svg" width="112" alt="Severed Signal Studios logo">
-
-# Severed Signal Studios
+  <img src="../assets/banner.svg" width="100%" alt="Severed Signal Studios">
 
 **An independent game studio in Åland, Finland.**
 
-[Website](https://severedsignal.com) · [Bluesky](https://bsky.app/profile/severedsignal.bsky.social) · [Discord](https://discord.gg/nz9bkGb2Fv) · [Facebook](https://www.facebook.com/severedsignal/) · [Reddit](https://www.reddit.com/user/SeveredSignal/) · [X](https://x.com/SevSignalStudio)
+[![Website](https://img.shields.io/badge/severedsignal.com-232527?style=flat)](https://severedsignal.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-232527?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/severedsignal.bsky.social)
+[![Discord](https://img.shields.io/badge/Discord-232527?style=flat&logo=discord&logoColor=white)](https://discord.gg/nz9bkGb2Fv)
+[![Facebook](https://img.shields.io/badge/Facebook-232527?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/severedsignal/)
+[![Reddit](https://img.shields.io/badge/Reddit-232527?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/SeveredSignal/)
+[![X](https://img.shields.io/badge/X-232527?style=flat&logo=x&logoColor=white)](https://x.com/SevSignalStudio)
+
+<sub>Logo by <a href="https://x.com/mewindson">Windson (Bhavik Chauhan)</a></sub>
 
 </div>
 
 ## Unaccounted
 
+**A first-person murder mystery set in the 1980s Eastern Bloc.**
+
 <img src="../assets/unaccounted-corridor.png" alt="Exposed pipes line a basement corridor, with a silhouetted figure in a distant doorway.">
 
-**A first-person murder mystery set in the 1980s Eastern Bloc.**
+<p>
+  <img src="../assets/unaccounted-laundry.jpg" width="32%" alt="A tenant in a tracksuit stands beside folded laundry and a washing machine.">
+  <img src="../assets/unaccounted-stairwell.jpg" width="32%" alt="A man stands on a concrete stairway below a dark landing.">
+  <img src="../assets/unaccounted-door-chain.jpg" width="32%" alt="A woman peers through a door held on its chain, with questions on slips of paper below her words.">
+</p>
 
 Explore an entire apartment building in this whodunit built on classic
 detective work. Search its five floors, account for its residents, and find
@@ -23,13 +34,22 @@ Follow the evidence through documents, testimony, personal belongings, and the
 building itself. A detail in one apartment can explain a contradiction in
 another.
 
-We're developing *Unaccounted* in [Godot](https://godotengine.org/).
+Coming to Windows, macOS and Linux. We're developing *Unaccounted* in
+[Godot](https://godotengine.org/).
 
-- **Characters:** [Puldarrb](https://x.com/PulDarRB)
-- **Environments:** [Harol Amado Vivanco (Mc Pato)](https://x.com/Mc_Patooo)
-- **Programming and design:** [Tobias Svenblad](https://x.com/SevSignalStudio)
+[![Wishlist on Steam](https://img.shields.io/badge/Wishlist_on_Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/747010/Unaccounted/)
+[![View on itch.io](https://img.shields.io/badge/View_on_itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white)](https://severedsignalstudios.itch.io/unaccounted)
 
-[Wishlist on Steam](https://store.steampowered.com/app/747010/Unaccounted/)
+<details>
+<summary><b>Credits</b></summary>
+
+| Role | Credit |
+|---|---|
+| Characters | [Puldarrb](https://x.com/PulDarRB) |
+| Environments | [Harol Amado Vivanco (Mc Pato)](https://x.com/Mc_Patooo) |
+| Programming and design | [Tobias Svenblad](https://x.com/SevSignalStudio) |
+
+</details>
 
 ## Get in touch
 
@@ -47,5 +67,3 @@ impossible for you to use, tell us through the
 [accessibility form](https://github.com/Severed-Signal-Studios/.github/issues/new?template=2-accessibility.yml).
 Our [accessibility statement](https://github.com/Severed-Signal-Studios/.github/blob/main/ACCESSIBILITY.md)
 says what we aim for.
-
-Our logo is by [Windson (Bhavik Chauhan)](https://x.com/mewindson).

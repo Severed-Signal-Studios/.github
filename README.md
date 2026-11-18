@@ -31,7 +31,7 @@ how to report those privately.
 | `.github/ISSUE_TEMPLATE/` | The issue forms for this repository |
 | `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md`, `ACCESSIBILITY.md`, `CONTRIBUTING.md` | Policies that apply across the organization |
 | `LICENSE` | The license for reusing these files. [License](#license) says what it covers. |
-| `assets/` | The logo and image the profile page uses |
+| `assets/` | The banner, logo and screenshots the profile page uses |
 | `CHANGELOG.md` | Notable changes to this repository, by version. It says what the version number covers. A pull request with a notable change adds the next version. |
 | `.github/workflows/tag.yml` | Tags `main` with the changelog's newest version |
 | `.github/workflows/branch-name.yml` | Checks that each branch is named by [Conventional Branch 1.1.0](https://conventionalbranch.org/v1.1.0/), using the types `feat`, `fix`, `chore` and `release` |
@@ -46,7 +46,7 @@ Signal Studios and licensed under the [MIT License](LICENSE). You may copy and
 adapt them, for example as a starting point for your own code of conduct, if
 you keep the copyright notice and the license text with your copy.
 
-The images in `assets/`, the studio logo and the *Unaccounted* screenshot, are
+The images in `assets/`, the studio banner and logo and the *Unaccounted* screenshots, are
 © 2026 Severed Signal Studios, all rights reserved. The MIT License doesn't
 cover them, so ask us before you use them. The license also gives no right to
 use the names or logos of the studio and its games, or to suggest that we
