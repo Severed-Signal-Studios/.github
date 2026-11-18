@@ -3,14 +3,13 @@ name: Branch name
 on:
   push:
     branches-ignore: [main]
-  pull_request:
 
 permissions: {}
 
 jobs:
   branch-name:
     name: Branch name
-    if: ${{ github.event_name != 'push' || !github.event.deleted }}
+    if: ${{ !github.event.deleted }}
     runs-on: ubuntu-slim
     timeout-minutes: 2
 
@@ -18,8 +17,8 @@ jobs:
       - name: Validate branch name
         shell: bash
         env:
-          BRANCH: ${{ github.head_ref || github.ref_name }}
-          ACTOR: ${{ github.event.pull_request.user.login || github.actor }}
+          BRANCH: ${{ github.ref_name }}
+          ACTOR: ${{ github.actor }}
           LC_ALL: C
 
         run: |
