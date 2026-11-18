@@ -12,6 +12,19 @@ The version number covers what people and the organization's other repositories 
 
 ## [Unreleased]
 
+## [1.5.0] - 2026-11-18
+
+### Added
+
+- The profile page links *Unaccounted* on itch.io, beside Steam. Both links are store buttons.
+- The profile page shows three more screenshots of *Unaccounted* below the corridor.
+
+### Changed
+
+- The profile page opens with the studio banner in place of the logo. The banner follows the viewer's light or dark mode.
+- The profile page's social links are buttons with each platform's icon.
+- The logo credit sits under the banner, and the *Unaccounted* team credits fold into a Credits section under the game.
+
 ## [1.4.0] - 2026-11-18
 
 ### Added
@@ -57,7 +70,8 @@ The version number covers what people and the organization's other repositories 
 - Blank issues are turned off. The new issue page links to Discord and to private contact by email.
 - GitHub uses `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md`, `ACCESSIBILITY.md` and `CONTRIBUTING.md` as the defaults for the organization's other repositories.
 
-[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.4.0...HEAD
+[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.5.0...HEAD
+[1.5.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.1.0...v1.2.0
