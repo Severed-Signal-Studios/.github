@@ -47,3 +47,5 @@ impossible for you to use, tell us through the
 [accessibility form](https://github.com/Severed-Signal-Studios/.github/issues/new?template=2-accessibility.yml).
 Our [accessibility statement](https://github.com/Severed-Signal-Studios/.github/blob/main/ACCESSIBILITY.md)
 says what we aim for.
+
+Our logo is by [Windson (Bhavik Chauhan)](https://x.com/mewindson).
