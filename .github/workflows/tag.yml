@@ -1,3 +1,9 @@
+# Tags each push to main with the newest version in CHANGELOG.md. The
+# changelog follows Keep a Changelog, so the first "## [x.y.z]" heading
+# below "## [Unreleased]" is the latest release. The versions follow
+# Semantic Versioning, and the tag is that version with a "v" prefix,
+# like v1.4.0. An existing tag is never moved.
+
 name: Tag
 
 on:
