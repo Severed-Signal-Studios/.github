@@ -7,9 +7,13 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: tag-main
+  cancel-in-progress: false
+
 jobs:
   tag:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     timeout-minutes: 5
     steps:
       - name: Tag the pushed commit with the changelog's newest version, unless that tag exists
