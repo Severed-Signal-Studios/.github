@@ -75,7 +75,7 @@ body:
     id: attachments
     attributes:
       label: Screenshots, video, logs or saves
-      description: Logs and saves help a lot. Logs can include your user name, and recordings can pick up your microphone. Zip save and settings files first, because this form accepts only images, videos, logs, text files and zip files.
+      description: Logs and saves help a lot. Logs may include your username, and recordings may capture your microphone. Compress save and settings files first, because this form accepts only images, videos, logs, text files and zip files.
     validations:
       accept: ".png,.jpg,.jpeg,.gif,.webp,.mp4,.mov,.webm,.log,.txt,.zip"
 
