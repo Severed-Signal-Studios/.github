@@ -8,7 +8,7 @@ This statement covers [severedsignal.com](https://severedsignal.com) and our
 video games. It says what we aim for and how to tell us when something gets in
 your way.
 
-Last updated 13 November 2026.
+Last updated 19 November 2026.
 
 ## How we work
 
@@ -57,7 +57,7 @@ aren't built yet.
 - The keys that look around have their own speed setting.
 - You can set the game to ignore accidental repeated presses, and you can play
   with switches.
-- You answer the census by picking from lists, so you never have to type.
+- You fill in the registry by picking from lists, so you never have to type.
 - The menus use your system's pointer, so a size or color you've set there
   still applies.
 
@@ -73,8 +73,8 @@ aren't built yet.
 - Colorblind Mode, under Accessibility, applies a correction filter for
   protanopia, deuteranopia or tritanopia.
 - The game never uses color alone to tell you something. Focus shows as a line
-  or ring, things you can use have an outline, and the census marks each answer
-  with a symbol and a word.
+  or ring, things you can use have an outline, and the registry marks each
+  answer with a symbol and a word.
 - Object Highlights outline what you can use, in a color you choose. While
   they're on, Scan outlines everything you can use at once. Prompts name the
   action and its key.
