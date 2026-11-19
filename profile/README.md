@@ -28,7 +28,7 @@
 
 Explore an entire apartment building in this whodunit built on classic
 detective work. Search its five floors, account for its residents, and find
-out who set the fire.
+out who killed a state official in the archive fire, and why.
 
 Follow the evidence through documents, testimony, personal belongings, and the
 building itself. A detail in one apartment can explain a contradiction in
