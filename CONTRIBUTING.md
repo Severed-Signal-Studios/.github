@@ -22,7 +22,8 @@ and pick the form that fits:
 If you don't have a GitHub account, report a bug or barrier by email to
 [support@severedsignal.com](mailto:support@severedsignal.com) or on
 [Discord](https://discord.gg/nz9bkGb2Fv), and we add it to the issues without
-your personal details.
+your personal details. We keep the original message and any attached files
+only as long as needed to handle the report, then delete them.
 
 Issues and their attachments are public. The
 [support guide](https://github.com/Severed-Signal-Studios/.github/blob/main/SUPPORT.md)

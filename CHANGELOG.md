@@ -12,6 +12,16 @@ The version number covers what people and the organization's other repositories 
 
 ## [Unreleased]
 
+## [1.7.0] - 2026-11-19
+
+### Added
+
+- `CONTRIBUTING.md` says the studio keeps a report sent by email or Discord, and any files attached to it, only as long as it needs to handle the report, then deletes them, as `SUPPORT.md` does.
+
+### Changed
+
+- The bug report form says *username* and asks you to compress save and settings files, in the words `SUPPORT.md` uses.
+
 ## [1.6.0] - 2026-11-19
 
 ### Changed
@@ -77,7 +87,8 @@ The version number covers what people and the organization's other repositories 
 - Blank issues are turned off. The new issue page links to Discord and to private contact by email.
 - GitHub uses `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md`, `ACCESSIBILITY.md` and `CONTRIBUTING.md` as the defaults for the organization's other repositories.
 
-[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.6.0...HEAD
+[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.7.0...HEAD
+[1.7.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.3.0...v1.4.0
