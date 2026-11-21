@@ -7,7 +7,9 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-232527?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/severedsignal.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-232527?style=flat&logo=discord&logoColor=white)](https://discord.gg/nz9bkGb2Fv)
 [![Facebook](https://img.shields.io/badge/Facebook-232527?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/severedsignal/)
+[![Instagram](https://img.shields.io/badge/Instagram-232527?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/severedsignalstudios/)
 [![Reddit](https://img.shields.io/badge/Reddit-232527?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/SeveredSignal/)
+[![Threads](https://img.shields.io/badge/Threads-232527?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@severedsignalstudios)
 [![X](https://img.shields.io/badge/X-232527?style=flat&logo=x&logoColor=white)](https://x.com/SevSignalStudio)
 
 <sub>Logo by <a href="https://x.com/mewindson">Windson (Bhavik Chauhan)</a></sub>

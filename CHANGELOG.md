@@ -12,6 +12,12 @@ The version number covers what people and the organization's other repositories 
 
 ## [Unreleased]
 
+## [1.8.0] - 2026-11-21
+
+### Added
+
+- The profile page links the studio's Instagram and Threads accounts, as the website does.
+
 ## [1.7.0] - 2026-11-19
 
 ### Added
@@ -87,7 +93,8 @@ The version number covers what people and the organization's other repositories 
 - Blank issues are turned off. The new issue page links to Discord and to private contact by email.
 - GitHub uses `SECURITY.md`, `SUPPORT.md`, `CODE_OF_CONDUCT.md`, `ACCESSIBILITY.md` and `CONTRIBUTING.md` as the defaults for the organization's other repositories.
 
-[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.7.0...HEAD
+[Unreleased]: https://github.com/Severed-Signal-Studios/.github/compare/v1.8.0...HEAD
+[1.8.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.7.0...v1.8.0
 [1.7.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/Severed-Signal-Studios/.github/compare/v1.4.0...v1.5.0
