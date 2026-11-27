@@ -10,6 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-232527?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/severedsignalstudios/)
 [![Reddit](https://img.shields.io/badge/Reddit-232527?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/SeveredSignal/)
 [![Threads](https://img.shields.io/badge/Threads-232527?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@severedsignalstudios)
+[![TikTok](https://img.shields.io/badge/TikTok-232527?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@severedsignalstudios)
 [![X](https://img.shields.io/badge/X-232527?style=flat&logo=x&logoColor=white)](https://x.com/SevSignalStudio)
 
 <sub>Logo by <a href="https://x.com/mewindson">Windson (Bhavik Chauhan)</a></sub>
